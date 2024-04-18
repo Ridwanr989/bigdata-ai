@@ -1,6 +1,6 @@
-# Tugas bigdata-ai
+# Tugas big-data-ai
 Big Data &amp; Ai
-Ridwan Ramadhan [ 1101213184 ]
+Ridwan Ramadhan [1101213184]
 Kelas Ai & Big Data TT-44-GAB 1
 
 NOTE :
@@ -14,6 +14,7 @@ Untuk dapat menggunakan perhitungan lakukan langkah berikut ini :
 
 informasi :
 untuk melakukan pengubahan data dapat membuka file excel yang ada (insurance.csv).
-setelah data di file excel, silahkan simpan perubahan dan jalankan ulang semua kode sesuai dengan petunjuk nomor 3.
+
+Setelah data di file excel, silahkan simpan perubahan dan jalankan ulang semua kode sesuai dengan petunjuk nomor 3.
 
 Terimakasih
